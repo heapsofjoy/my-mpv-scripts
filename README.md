@@ -67,7 +67,7 @@ mostly only made these so theyre cross compatible with windows and linux
 - **Description**:  
   sends file to trash or permanently deletes current file
 - **Features**:  
-- Press Alt+d to send to trash **(Requires trash-cli installed)
+- Press Alt+d to send to trash **(Requires trash-cli installed)**
 - Press Alt+Shift+D to permanently delete file
 
 ---
