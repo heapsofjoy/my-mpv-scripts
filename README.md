@@ -1,6 +1,8 @@
 # My MPV Scripts
 
-just some scripts I made for my mpv config
+just some scripts I made for my mpv config 
+
+mostly only made these so theyre cross compatible with windows and linux
 ---
 
 ## Installation
