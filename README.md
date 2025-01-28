@@ -62,6 +62,16 @@ mostly only made these so theyre cross compatible with windows and linux
 
 ---
 
+### 4. **`delete_current_file.lua`** - sends file to trash or permanently deletes current file
+
+- **Description**:  
+  sends file to trash or permanently deletes current file
+- **Features**:  
+- Press Alt+d to send to trash **(Requires trash-cli installed)
+- Press Alt+Shift+D to permanently delete file
+
+---
+
 ## Contribution
 
 Feel free to contribute by submitting pull requests or suggesting new features. If you encounter any issues, open a GitHub issue to report them.
