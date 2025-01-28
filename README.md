@@ -74,7 +74,7 @@ mostly only made these so theyre cross compatible with windows and linux
 
 ## Contribution
 
-Feel free to contribute by submitting pull requests or suggesting new features. If you encounter any issues, open a GitHub issue to report them.
+do whatever you want with these scripts
 
 ---
 
